@@ -33,3 +33,9 @@
 		padding: 0 1rem;
 	}
 }
+.link {
+	color: #0011bb;
+}
+.link:past {
+	color: #6600cc;
+}

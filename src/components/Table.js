@@ -73,6 +73,7 @@ const Table = ({ tableData }) => {
 											)}`,
 											state: item,
 										}}
+										className={"link"}
 									>
 										{item.properties.place}
 									</Link>
