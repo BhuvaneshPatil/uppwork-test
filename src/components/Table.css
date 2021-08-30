@@ -36,6 +36,6 @@
 .link {
 	color: #0011bb;
 }
-.link:past {
+.link:visited {
 	color: #6600cc;
 }
